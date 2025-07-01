@@ -4,6 +4,6 @@ I'm a BTech Computer Science (AI) student from Kerala, currently exploring progr
 
 - 🌱 Exploring core programming languages, front-end development, and foundational AI concepts
 - 💡 Here to build my skills and grow as a developer  
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/nimitha-s-nair)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nimitha-s-nair/)
 
 Always open to learning and new opportunities.
